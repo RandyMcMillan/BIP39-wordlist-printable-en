@@ -75,11 +75,11 @@ grep -P '\tword$' BIP39-en-printable.txt
 
 The binary column in `BIP39-en-printable.txt` makes it straightforward to manually reconstruct the full 132-bit string from a 12-word mnemonic and verify the 4-bit checksum without software (though computing SHA-256 still requires a tool).
 
-#Page 1: 
+# Page 1: 
 
 <img width="965" alt="bip39_printable_page_1" src="https://user-images.githubusercontent.com/5213035/46573154-a8902b80-c999-11e8-8847-c8490ce89d18.png">
 
-#Page 2:
+# Page 2:
 
 <img width="969" alt="bip39_printable_page_2" src="https://user-images.githubusercontent.com/5213035/46573155-aa59ef00-c999-11e8-8d81-bf598a243241.png">
 
